@@ -556,12 +556,11 @@ justify-content: center;
     margin-right: auto;
     height: 40vh;
     margin-top: 100px;
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/biletix.jpeg") no-repeat fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("./images/best.jpeg") no-repeat fixed;
     background-size:cover;
-    background-position-y: -50em;
+    background-position-y: -60em;
     overflow: hidden;
     /* -webkit-filter: blur(1px); */
-
 
 
 }
